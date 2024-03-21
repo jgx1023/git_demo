@@ -21,3 +21,4 @@ hello atguigu! hello git! hot_fix test
 ssh push test
 pycharm ssh jgx1023 push test
 pycharm git clone test
+gitee import test
